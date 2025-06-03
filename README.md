@@ -1,7 +1,7 @@
 # Number Guessing Game v1.0
 ------------------------
 
-https://github.com/TheDan55/Number-Guessing-Game
+https://roadmap.sh/projects/number-guessing-game
 
 REQ:
 
